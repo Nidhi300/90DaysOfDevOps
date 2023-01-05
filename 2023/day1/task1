@@ -1,2 +1,11 @@
 * What is scaling ?
 Scaling is the ability of a system to handle an increasing workload. This can be achieved through horizontal scaling, which involves adding more resources to a system eg. adding more servers to a network, or through vertical scaling which involves increasing the capacity of individual resources e.g. upgarding the hardware of a single server.
+
+* What is infrastructure?
+Infrastructure is viewed as code that can be managed and maintained through the use of automation and configuration management tools. This means that rather than manually configuring and maintaining infrastructure, the infrastructure can be defined and maintained using code and automation tools. This enables the infrastructure to be treated in the same way as the application code, with the ability to version control, test and deploy infrastructure changes alongside application code changes. Managing infrastructure in this way can help to improve the reliability, scalability and security of the infrastructure.
+
+* Why DevOps is important ?
+i) Faster delivery of software updates
+ii) Improved collaboration
+iii) Increased reliability and stability 
+iv) Better security 
