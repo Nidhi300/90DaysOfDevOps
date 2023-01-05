@@ -1,1 +1,2 @@
-
+* What is scaling ?
+Scaling is the ability of a system to handle an increasing workload. This can be achieved through horizontal scaling, which involves adding more resources to a system eg. adding more servers to a network, or through vertical scaling which involves increasing the capacity of individual resources e.g. upgarding the hardware of a single server.
